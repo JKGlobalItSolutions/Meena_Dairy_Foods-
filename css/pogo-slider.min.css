@@ -23,7 +23,7 @@
 
 .pogoSlider-slide {
 	width: 100%;
-	min-height: 100%;
+	min-height: 70%;
 	position: absolute;
 	background-size: cover;
 	-webkit-background-size: cover;
